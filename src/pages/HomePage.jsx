@@ -34,7 +34,7 @@ const HomePage = () => {
                             <ListItem key={idx}>
                                 <Grid container>
                                     <Grid item>
-                                        <Typography varian={"h4"}>{x.id} {x.title}</Typography>
+                                        <Typography variant={"h4"}>{x.id} {x.title}</Typography>
 
                                     </Grid>
                                     <Grid item>
